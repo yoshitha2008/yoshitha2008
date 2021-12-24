@@ -1,19 +1,9 @@
-<link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/93359760/ws?session=eyJ2IjoiVjMiLCJ1Ijo5MzM1OTc2MCwicyI6ODA0NjczMDE1LCJjIjoxNDI1NzI3MzQ2LCJ0IjoxNjQwMzA5NzU5fQ==--6c8819093992ff0900254cfc95652e4d0c320de0a1c104d1cb2e1d6100717077" data-refresh-url="/_alive" data-session-id="ee50a31c705e1a51d5c890661a8d429eaceb94c68991598465b9db445a7467ae">
-    <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-9c817d86.js">
-  <link rel="sudo-modal" href="/sessions/sudo_modal">
-
 # <b><i>Yoshitha Rathnayake</i></b>
 # <img src="Yoshitha Rathnayake 2.png" height="250px">
 <a href="https://github.com/yoshitha2008">@yoshitha2008<a>
   
- <div class="flex-order-1 flex-md-order-none mt-2 mt-md-0">
-      <div class="mb-3">
-        <a class="Link--secondary no-underline no-wrap" href="https://github.com/yoshitha2008?tab=followers">
-          <svg text="muted" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-people">
-    <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"></path>
-</svg>
-
+    
+    
 > Hi, I am Yoshitha Rathnayake. This is my personal portfolio. 
 
 
